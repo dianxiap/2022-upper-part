@@ -1,0 +1,4 @@
+﻿  源.c
+E:\草稿箱\daily-training\51\51\源.c(9,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\草稿箱\daily-training\51\51\源.c(17,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  51.vcxproj -> E:\草稿箱\daily-training\51\x64\Debug\51.exe
