@@ -1,0 +1,4 @@
+﻿  源.c
+E:\草稿箱\daily-training\Project12\Project12\源.c(29,26): warning C4090: “函数”: 不同的“const”限定符
+E:\草稿箱\daily-training\Project12\Project12\源.c(56): warning C4715: “strNcpy”: 不是所有的控件路径都返回值
+  Project12.vcxproj -> E:\草稿箱\daily-training\Project12\x64\Debug\Project12.exe
