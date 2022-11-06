@@ -1,0 +1,3 @@
+﻿  源.c
+E:\草稿箱\daily-training\19-100\19-100\源.c(5,6): warning C4101: “n”: 未引用的局部变量
+  19-100.vcxproj -> E:\草稿箱\daily-training\19-100\x64\Debug\19-100.exe
