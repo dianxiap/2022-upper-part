@@ -1,0 +1,4 @@
+﻿  源.c
+E:\草稿箱\daily-training\30-100\30-100\源.c(28,31): warning C4474: printf: 格式字符串中传递的参数太多
+E:\草稿箱\daily-training\30-100\30-100\源.c(28,31): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  30-100.vcxproj -> E:\草稿箱\daily-training\30-100\x64\Debug\30-100.exe
