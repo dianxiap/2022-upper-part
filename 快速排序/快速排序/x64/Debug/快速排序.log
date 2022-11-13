@@ -1,0 +1,5 @@
+﻿  源.c
+  源.cpp
+E:\草稿箱\daily-training\快速排序\快速排序\源.cpp(19,47): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+x64\Debug\源.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  快速排序.vcxproj -> E:\草稿箱\daily-training\快速排序\x64\Debug\快速排序.exe
