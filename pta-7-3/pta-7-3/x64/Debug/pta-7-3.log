@@ -1,0 +1,19 @@
+﻿  源.cpp
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(3,12): error C2059: 语法错误:“?”
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(8,15): error C2059: 语法错误:“?”
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(10,12): error C2065: “i”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(10,36): error C2065: “i”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(13,22): error C2065: “i”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(15,23): error C2065: “n0”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(16,23): error C2065: “n1”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(17,23): error C2065: “n2”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(22,15): error C2065: “n0”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(22,22): error C2065: “n1”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(25,16): error C2065: “n1”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(25,23): error C2065: “n2”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(27,8): error C2065: “n1”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(27,16): error C2065: “n2”: 未声明的标识符
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(28,4): error C2059: 语法错误:“?”
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(11,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(40,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\草稿箱\daily-training\pta-7-3\pta-7-3\源.cpp(45,19): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
