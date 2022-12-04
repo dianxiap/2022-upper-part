@@ -1,0 +1,3 @@
+﻿  源.cpp
+x64\Debug\源.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  蓝桥杯模拟二.vcxproj -> E:\草稿箱\daily-training\蓝桥杯模拟二\x64\Debug\蓝桥杯模拟二.exe
